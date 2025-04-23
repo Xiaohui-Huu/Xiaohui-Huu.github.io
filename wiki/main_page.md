@@ -71,7 +71,9 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 
 
 # Publications
-**[1]** Make data reliable: An explanation-powered cleaning on malware dataset against backdoor poisoning attacks.  [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3564625.3564661) <p class="view">
+**[1]** Make data reliable: An explanation-powered cleaning on malware dataset against backdoor poisoning attacks.  [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3564625.3564661) 
+&nbsp;|&nbsp;
+<p class="view">
   <a href="javascript:void(0);" onclick="toggleCitation()">[Cite]</a>
 </p>
 
