@@ -82,7 +82,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
   </span>
   <br>
   <span style="margin-left: 2em;">
-  Bosi Zhang, Ningyu He, <span style="color:rgb(7, 7, 7);">Xiaohui Hu</span>, Kai Ma, Haoyu Wang
+  Bosi Zhang, Ningyu He, <strong>Xiaohui Hu</strong>, Kai Ma, Haoyu Wang
   </span>
 </p>
 
