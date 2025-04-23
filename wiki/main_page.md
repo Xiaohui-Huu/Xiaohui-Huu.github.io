@@ -59,6 +59,8 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
     [<a href="https://arxiv.org/pdf/2504.11735" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite6')">Cite</a>]
   </span>
+  <br>
+  &nbsp <strong>Xiaohui Hu</strong>, Ningyu He, Haoyu Wang
 </p>
 
 <div id="cite6" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
@@ -76,6 +78,8 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
     [<a href="https://arxiv.org/pdf/2502.03718" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite5')">Cite</a>]
   </span>
+  <br>
+  &nbsp Bosi Zhang, Ningyu He, <strong>Xiaohui Hu</strong>, Kai Ma, Haoyu Wang
 </p>
 
 <div id="cite5" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
@@ -93,6 +97,8 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
     [<a href="https://www.eecs.qmul.ac.uk/~tysong/files/SIGMETRICS25.pdf" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite4')">Cite</a>]
   </span>
+  <br>
+  &nbsp <strong>Xiaohui Hu</strong>, Hang Feng, Pengcheng Xia, Gareth Tyson, Lei Wu, Yajin Zhou, Haoyu Wang
 </p>
 
 <div id="cite4" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
@@ -110,6 +116,8 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
     [<a href="https://arxiv.org/pdf/2405.17944" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite3')">Cite</a>]
   </span>
+  <br>
+  &nbsp Tianyang Chi, Ningyu He, <strong>Xiaohui Hu</strong>, Haoyu Wang
 </p>
 
 <div id="cite3" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
@@ -128,7 +136,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite2')">Cite</a>]
   </span>
   <br>
-   Bowen He, Yuan Chen, Zhuo Chen, **Xiaohui Hu**, Yufeng Hu, Lei Wu, Rui Chang, Haoyu Wang, Yajin Zhou
+   &nbsp Bowen He, Yuan Chen, Zhuo Chen, <strong>Xiaohui Hu</strong>, Yufeng Hu, Lei Wu, Rui Chang, Haoyu Wang, Yajin Zhou
 </p>
 
 <div id="cite2" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
@@ -147,7 +155,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite1')">Cite</a>]
   </span>
   <br>
-  Xutong Wang, Chaoge Liu, **Xiaohui Hu**, Zhi Wang, Jie Yin, Xiang Cui
+  &nbsp Xutong Wang, Chaoge Liu, <strong>Xiaohui Hu</strong>, Zhi Wang, Jie Yin, Xiang Cui
   
 </p>
 
