@@ -54,6 +54,23 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 # Publications
 
 <p>
+  <strong>[6]</strong> WalletProbe: A Testing Framework for Browser-based Cryptocurrency Wallet Extensions.
+  <span style="white-space: nowrap;">
+    [<a href="https://arxiv.org/pdf/2504.11735" target="_blank">PDF</a>]
+    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite6')">Cite</a>]
+  </span>
+</p>
+
+<div id="cite6" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
+  <button class="copy-btn" onclick="copyCitation('cite6')">Copy</button>
+  <pre>
+  {% include citations/wallet.txt %}
+  </pre>
+</div>
+
+<!-- ----------------------------- -->
+
+<p>
   <strong>[5]</strong> Following Devils' Footprint: Towards Real-time Detection of Price Manipulation Attacks.
   <span style="white-space: nowrap;">
     [<a href="https://arxiv.org/pdf/2502.03718" target="_blank">PDF</a>]
@@ -64,7 +81,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <div id="cite5" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
   <button class="copy-btn" onclick="copyCitation('cite5')">Copy</button>
   <pre>
-  {% include_relative citations\sec25_price_manipulation.txt %}
+  {% include citations/sec25_price_manipulation.txt %}
   </pre>
 </div>
 
@@ -81,7 +98,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <div id="cite4" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
   <button class="copy-btn" onclick="copyCitation('cite4')">Copy</button>
   <pre>
-  {% include_relative citations\sig25_cross-chain.txt %}
+  {% include citations/sig25_cross-chain.txt %}
   </pre>
 </div>
 
@@ -98,7 +115,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <div id="cite3" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
   <button class="copy-btn" onclick="copyCitation('cite3')">Copy</button>
   <pre>
-  {% include_relative citations\mev.txt %}
+  {% include citations/mev.txt %}
   </pre>
 </div>
 
@@ -115,7 +132,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <div id="cite2" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
   <button class="copy-btn" onclick="copyCitation('cite2')">Copy</button>
   <pre>
-  {% include_relative citations/ccs23_phishing.txt %}
+  {% include citations/ccs23_phishing.txt %}
   </pre>
 </div>
 
@@ -132,7 +149,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <div id="cite1" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
   <button class="copy-btn" onclick="copyCitation('cite1')">Copy</button>
   <pre>
-  {% include_relative citations\make_data_reliable.txt %}
+  {% include citations/make_data_reliable.txt %}
   </pre>
 </div>
 

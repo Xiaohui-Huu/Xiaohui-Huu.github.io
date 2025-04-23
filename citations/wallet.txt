@@ -1,0 +1,9 @@
+@misc{hu2025walletprobetestingframeworkbrowserbased,
+      title={WalletProbe: A Testing Framework for Browser-based Cryptocurrency Wallet Extensions}, 
+      author={Xiaohui Hu and Ningyu He and Haoyu Wang},
+      year={2025},
+      eprint={2504.11735},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2504.11735}, 
+}
