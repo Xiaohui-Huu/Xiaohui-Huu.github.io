@@ -53,15 +53,37 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 
 # Publications
 
+
 <p class="view">
-  <strong>[6] WalletProbe: A Testing Framework for Browser-based Cryptocurrency Wallet Extensions.</strong>
+  <strong>[7] WalletProbe: A Testing Framework for Browser-based Cryptocurrency Wallet Extensions.</strong>
   <span style="white-space: nowrap;">
     [<a href="https://arxiv.org/pdf/2504.11735" target="_blank">PDF</a>]
-    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite6')">Cite</a>]
+    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite7')">Cite</a>]
   </span>
   <br>
   <span style="margin-left: 2em;">
   <strong>Xiaohui Hu</strong>, Ningyu He, Haoyu Wang
+  </span>
+</p>
+
+<div id="cite7" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
+  <button class="copy-btn" onclick="copyCitation('cite7')">Copy</button>
+  <!-- <pre> -->
+  {% include citations/wallet.txt %}
+  <!-- </pre> -->
+</div>
+
+<!-- ----------------------------- -->
+
+<p class="view">
+  <strong>[6] Phishing Tactics Are Evolving: An Empirical Study of Phishing.</strong> [ACM SIGMETRICS'25]
+  <span style="white-space: nowrap;">
+    [<a href="" target="_blank">PDF</a>]
+    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite6')">Cite</a>]
+  </span>
+  <br>
+  <span style="margin-left: 2em;">
+  Bowen He, <strong>Xiaohui Hu</strong>, Yufeng Hu, Ting Yu, Rui Chang, Lei Wu, Yajin Zhou
   </span>
 </p>
 
@@ -75,7 +97,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <!-- ----------------------------- -->
 
 <p class="view">
-  <strong>[5] Following Devils' Footprint: Towards Real-time Detection of Price Manipulation Attacks.</strong>[USENIX Security'25]
+  <strong>[5] Following Devils' Footprint: Towards Real-time Detection of Price Manipulation Attacks.</strong> [USENIX Security'25]
   <span style="white-space: nowrap;">
     [<a href="https://arxiv.org/pdf/2502.03718" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite5')">Cite</a>]
@@ -96,7 +118,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <!-- ----------------------------- -->
 
 <p class="view">
-  <strong>[4] Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks.</strong>[ACM SIGMETRICS'25]
+  <strong>[4] Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks.</strong> [ACM SIGMETRICS'25]
   <span style="white-space: nowrap;">
     [<a href="https://www.eecs.qmul.ac.uk/~tysong/files/SIGMETRICS25.pdf" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite4')">Cite</a>]
@@ -138,7 +160,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <!-- ----------------------------- -->
 
 <p class="view">
-  <strong>[2] Txphishscope: Towards detecting and understanding transaction-based phishing on ethereum.</strong>[ACM CCS'23] 
+  <strong>[2] Txphishscope: Towards detecting and understanding transaction-based phishing on ethereum.</strong> [ACM CCS'23] 
   <span style="white-space: nowrap;">
     [<a href="https://assets.blocksec.com/pdf/ccs23_phishing.pdf" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite2')">Cite</a>]
@@ -161,7 +183,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <!-- ----------------------------- -->
 
 <p class="view">
-  <strong>[1] Make data reliable: An explanation-powered cleaning on malware dataset against backdoor poisoning attacks. [ACSAC'23]</strong> 
+  <strong>[1] Make data reliable: An explanation-powered cleaning on malware dataset against backdoor poisoning attacks.</strong> [ACSAC'23] 
   <span style="white-space: nowrap;">
     [<a href="https://dl.acm.org/doi/pdf/10.1145/3564625.3564661" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite1')">Cite</a>]
