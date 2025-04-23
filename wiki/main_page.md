@@ -39,8 +39,8 @@ redirect_from: "/"
 
 
 # About me
-I’m a master student in Security PRIDE Research Group at Huazhong University of Science and Technology (HUST), advised by [Prof. Haoyu Wang](https://howiepku.github.io/index.html) and co-supervised by [Dr. Ningyu He](https://ningyu-he.notion.site/Ningyu-s-Homepage-74990eabecda4c5b9cd0e90762ebc7a9). I received my B.E. degree in Computer Science at Beijing University of Posts and Telecommunications in 2023. 
-My research interests center on *blockchain security* and *DeFi*. My broader interests include uncovering software bugs to assess exploitability, analyzing DeFi activities to pretend misbehaviors (e.g., exploits, scams, and MEV).
+I am a master student in Security PRIDE Research Group at Huazhong University of Science and Technology (HUST), advised by [Prof. Haoyu Wang](https://howiepku.github.io/index.html) and co-supervised by [Dr. Ningyu He](https://ningyu-he.notion.site/Ningyu-s-Homepage-74990eabecda4c5b9cd0e90762ebc7a9). I received my B.E. degree in Computer Science at Beijing University of Posts and Telecommunications in 2023. 
+My research interests center on *blockchain security* and *DeFi*. My broader interests include uncovering software bugs to assess exploitability and analyzing DeFi activities to pretend misbehaviors (e.g., exploits, scams, and MEV).
 
 **I am actively exploring a PhD opportunity to contribute to impactful research.**
 
@@ -75,7 +75,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <!-- ----------------------------- -->
 
 <p class="view">
-  <strong>[5] Following Devils' Footprint: Towards Real-time Detection of Price Manipulation Attacks.</strong>
+  <strong>[5] Following Devils' Footprint: Towards Real-time Detection of Price Manipulation Attacks. [USENIX Security'25]</strong>
   <span style="white-space: nowrap;">
     [<a href="https://arxiv.org/pdf/2502.03718" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite5')">Cite</a>]
@@ -96,7 +96,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <!-- ----------------------------- -->
 
 <p class="view">
-  <strong>[4] Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks.</strong>
+  <strong>[4] Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks. [ACM SIGMETRICS'25]</strong>
   <span style="white-space: nowrap;">
     [<a href="https://www.eecs.qmul.ac.uk/~tysong/files/SIGMETRICS25.pdf" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite4')">Cite</a>]
@@ -138,7 +138,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <!-- ----------------------------- -->
 
 <p class="view">
-  <strong>[2] Txphishscope: Towards detecting and understanding transaction-based phishing on ethereum.</strong> 
+  <strong>[2] Txphishscope: Towards detecting and understanding transaction-based phishing on ethereum. [ACM CCS'23]</strong> 
   <span style="white-space: nowrap;">
     [<a href="https://assets.blocksec.com/pdf/ccs23_phishing.pdf" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite2')">Cite</a>]
@@ -161,7 +161,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <!-- ----------------------------- -->
 
 <p class="view">
-  <strong>[1] Make data reliable: An explanation-powered cleaning on malware dataset against backdoor poisoning attacks.</strong> 
+  <strong>[1] Make data reliable: An explanation-powered cleaning on malware dataset against backdoor poisoning attacks. [ACSAC'23]</strong> 
   <span style="white-space: nowrap;">
     [<a href="https://dl.acm.org/doi/pdf/10.1145/3564625.3564661" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite1')">Cite</a>]
