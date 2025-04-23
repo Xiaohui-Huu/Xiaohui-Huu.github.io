@@ -61,7 +61,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
   </span>
   <br>
   <span style="margin-left: 2em;">
-  &nbsp <span style="color: #494949;">Xiaohui Hu</span>, Ningyu He, Haoyu Wang
+  <span style="color: #494949;">Xiaohui Hu</span>, Ningyu He, Haoyu Wang
 </p>
 
 <div id="cite6" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
@@ -81,7 +81,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
   </span>
   <br>
   <span style="margin-left: 2em;">
-  Bosi Zhang, Ningyu He, <span style="color: #494949;">Xiaohui Hu</span>, Kai Ma, Haoyu Wang
+  Bosi Zhang, Ningyu He, <span style="color:rgb(7, 7, 7);">Xiaohui Hu</span>, Kai Ma, Haoyu Wang
 </p>
 
 <div id="cite5" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
@@ -163,6 +163,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite1')">Cite</a>]
   </span>
   <br>
+  <span style="margin-left: 2em;">
   Xutong Wang, Chaoge Liu, <span style="color: #494949;">Xiaohui Hu</span>, Zhi Wang, Jie Yin, Xiang Cui
   
 </p>
