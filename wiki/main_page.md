@@ -53,7 +53,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 
 # Publications
 
-<p>
+<p class="view">>
   <strong>[6]</strong> WalletProbe: A Testing Framework for Browser-based Cryptocurrency Wallet Extensions.
   <span style="white-space: nowrap;">
     [<a href="https://arxiv.org/pdf/2504.11735" target="_blank">PDF</a>]
@@ -70,7 +70,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 
 <!-- ----------------------------- -->
 
-<p>
+<p class="view">>
   <strong>[5]</strong> Following Devils' Footprint: Towards Real-time Detection of Price Manipulation Attacks.
   <span style="white-space: nowrap;">
     [<a href="https://arxiv.org/pdf/2502.03718" target="_blank">PDF</a>]
@@ -87,7 +87,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 
 <!-- ----------------------------- -->
 
-<p>
+<p class="view">>
   <strong>[4]</strong> Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks.
   <span style="white-space: nowrap;">
     [<a href="https://www.eecs.qmul.ac.uk/~tysong/files/SIGMETRICS25.pdf" target="_blank">PDF</a>]
@@ -104,7 +104,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 
 <!-- ----------------------------- -->
 
-<p>
+<p class="view">>
   <strong>[3]</strong> Remeasuring the arbitrage and sandwich attacks of maximal extractable value in Ethereum.
   <span style="white-space: nowrap;">
     [<a href="https://arxiv.org/pdf/2405.17944" target="_blank">PDF</a>]
@@ -121,7 +121,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 
 <!-- ----------------------------- -->
 
-<p>
+<p class="view">>
   <strong>[2]</strong> Txphishscope: Towards detecting and understanding transaction-based phishing on ethereum.
   <span style="white-space: nowrap;">
     [<a href="https://assets.blocksec.com/pdf/ccs23_phishing.pdf" target="_blank">PDF</a>]
@@ -138,7 +138,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 
 <!-- ----------------------------- -->
 
-<p>
+<p class="view">>
   <strong>[1]</strong> Make data reliable: An explanation-powered cleaning on malware dataset against backdoor poisoning attacks.
   <span style="white-space: nowrap;">
     [<a href="https://dl.acm.org/doi/pdf/10.1145/3564625.3564661" target="_blank">PDF</a>]
