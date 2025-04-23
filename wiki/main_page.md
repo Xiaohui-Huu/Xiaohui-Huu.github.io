@@ -69,13 +69,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <div id="cite1" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
   <button class="copy-btn" onclick="copyCitation('cite1')">Copy</button>
   <pre>
-@inproceedings{10.1145/3564625.3564661, 
-author = {Wang, Xutong and Liu, Chaoge and Hu, Xiaohui and Wang, Zhi and Yin, Jie and Cui, Xiang},
-title = {Make Data Reliable: An Explanation-powered Cleaning on Malware Dataset Against Backdoor Poisoning Attacks},
-year = {2022},
-...
-series = {ACSAC '22'}
-}
+  {% citations\make_data_reliable.bib %}
   </pre>
 </div>
 
