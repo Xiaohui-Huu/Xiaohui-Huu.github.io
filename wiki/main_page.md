@@ -75,7 +75,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <!-- ----------------------------- -->
 
 <p class="view">
-  <strong>[5] Following Devils' Footprint: Towards Real-time Detection of Price Manipulation Attacks. [USENIX Security'25]</strong>
+  <strong>[5] Following Devils' Footprint: Towards Real-time Detection of Price Manipulation Attacks.</strong>[USENIX Security'25]
   <span style="white-space: nowrap;">
     [<a href="https://arxiv.org/pdf/2502.03718" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite5')">Cite</a>]
@@ -96,7 +96,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <!-- ----------------------------- -->
 
 <p class="view">
-  <strong>[4] Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks. [ACM SIGMETRICS'25]</strong>
+  <strong>[4] Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks.</strong>[ACM SIGMETRICS'25]
   <span style="white-space: nowrap;">
     [<a href="https://www.eecs.qmul.ac.uk/~tysong/files/SIGMETRICS25.pdf" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite4')">Cite</a>]
@@ -138,7 +138,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <!-- ----------------------------- -->
 
 <p class="view">
-  <strong>[2] Txphishscope: Towards detecting and understanding transaction-based phishing on ethereum. [ACM CCS'23]</strong> 
+  <strong>[2] Txphishscope: Towards detecting and understanding transaction-based phishing on ethereum.</strong>[ACM CCS'23] 
   <span style="white-space: nowrap;">
     [<a href="https://assets.blocksec.com/pdf/ccs23_phishing.pdf" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite2')">Cite</a>]
