@@ -1,34 +1,41 @@
 ---
 redirect_from: "/"
 ---
-<style>
-  .citation-toggle {
-    cursor: pointer;
-    color: #337ab7;
-    text-decoration: underline;
-  }
-
-  .citation-box {
-    display: none;
-    border: 1px solid #ccc;
-    padding: 15px;
-    background-color: #f9f9f9;
-    max-width: 600px;
-    margin-top: 10px;
-    font-family: monospace;
-    white-space: pre-wrap;
-    word-break: break-word;
-  }
-</style>
-
 <script>
   function toggleCitationBox(id) {
     const box = document.getElementById(id);
     if (box) {
-      box.style.display = box.style.display === 'none' || box.style.display === '' ? 'block' : 'none';
+      box.style.display = (box.style.display === 'none' || box.style.display === '') ? 'block' : 'none';
     }
   }
+
+  function copyCitation(id) {
+    const text = document.querySelector(`#${id} pre`).innerText;
+    navigator.clipboard.writeText(text).then(() => {
+      alert("Citation copied to clipboard!");
+    }).catch(err => {
+      console.error("Failed to copy citation:", err);
+    });
+  }
 </script>
+
+<style>
+  .copy-btn {
+    position: absolute;
+    top: 3px;
+    right: 3px;
+    font-size: 12px;
+    padding: 2px 2px;
+    cursor: pointer;
+    background-color: #eee;
+    border: 1px solid #bbb;
+    border-radius: 1px;
+  }
+
+  .copy-btn:hover {
+    background-color: #ddd;
+  }
+</style>
 
 
 # About me
@@ -72,41 +79,7 @@ series = {ACSAC '22'}
   </pre>
 </div>
 
-<script>
-  function toggleCitationBox(id) {
-    const box = document.getElementById(id);
-    if (box) {
-      box.style.display = (box.style.display === 'none' || box.style.display === '') ? 'block' : 'none';
-    }
-  }
 
-  function copyCitation(id) {
-    const text = document.querySelector(`#${id} pre`).innerText;
-    navigator.clipboard.writeText(text).then(() => {
-      alert("Citation copied to clipboard!");
-    }).catch(err => {
-      console.error("Failed to copy citation:", err);
-    });
-  }
-</script>
-
-<style>
-  .copy-btn {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    font-size: 12px;
-    padding: 4px 8px;
-    cursor: pointer;
-    background-color: #eee;
-    border: 1px solid #bbb;
-    border-radius: 4px;
-  }
-
-  .copy-btn:hover {
-    background-color: #ddd;
-  }
-</style>
 
 
 
