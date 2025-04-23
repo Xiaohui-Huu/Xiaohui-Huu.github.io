@@ -127,6 +127,8 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
     [<a href="https://assets.blocksec.com/pdf/ccs23_phishing.pdf" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite2')">Cite</a>]
   </span>
+  <br>
+   Bowen He, Yuan Chen, Zhuo Chen, **Xiaohui Hu**, Yufeng Hu, Lei Wu, Rui Chang, Haoyu Wang, Yajin Zhou
 </p>
 
 <div id="cite2" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
@@ -144,7 +146,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
     [<a href="https://dl.acm.org/doi/pdf/10.1145/3564625.3564661" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite1')">Cite</a>]
   </span>
-
+  <br>
   Xutong Wang, Chaoge Liu, **Xiaohui Hu**, Zhi Wang, Jie Yin, Xiang Cui
   
 </p>
