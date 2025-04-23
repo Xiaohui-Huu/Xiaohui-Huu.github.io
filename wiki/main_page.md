@@ -144,6 +144,8 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
     [<a href="https://dl.acm.org/doi/pdf/10.1145/3564625.3564661" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite1')">Cite</a>]
   </span>
+
+  Xutong Wang, Chaoge Liu, **Xiaohui Hu**, Zhi Wang, Jie Yin, Xiang Cui
   
 </p>
 
