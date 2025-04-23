@@ -13,28 +13,11 @@ redirect_from: "/"
     border: 1px solid #ccc;
     padding: 15px;
     background-color: #f9f9f9;
-    max-width: 700px;
+    max-width: 600px;
     margin-top: 10px;
     font-family: monospace;
     white-space: pre-wrap;
     word-break: break-word;
-    position: relative;
-  }
-
-  .copy-btn {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    font-size: 12px;
-    padding: 4px 8px;
-    cursor: pointer;
-    background-color: #eee;
-    border: 1px solid #bbb;
-    border-radius: 4px;
-  }
-
-  .copy-btn:hover {
-    background-color: #ddd;
   }
 </style>
 
@@ -44,15 +27,6 @@ redirect_from: "/"
     if (box) {
       box.style.display = box.style.display === 'none' || box.style.display === '' ? 'block' : 'none';
     }
-  }
-
-  function copyCitation(id) {
-    const text = document.querySelector(`#${id} pre`).innerText;
-    navigator.clipboard.writeText(text).then(() => {
-      alert("Citation copied to clipboard!");
-    }).catch(err => {
-      console.error("Failed to copy citation:", err);
-    });
   }
 </script>
 
