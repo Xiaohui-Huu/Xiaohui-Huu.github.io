@@ -181,21 +181,23 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 
 
 # Sources
-## [Datasets]
+## Datasets
 * Cross-Chain: [transactions](https://www.dropbox.com/scl/fi/42pi7h65x9ttzpoq7mhn5/cross_chain_data.csv?rlkey=t5bpsshz6niaqkh897rtkqsp2&st=vhxc2hp0&dl=0) [anomalies](https://www.dropbox.com/scl/fi/bsotstmgjl4xowydl7he9/unmatched_cross_chain_data.csv?rlkey=r7jbdk6nezp5gocxwft5yung7&st=kck3zwbi&dl=0)
 
 # Service
-**[Sub-Reviewer]** Usenix Security'25, FSE'25, ISSTA'25, WWW'25, CCS'24, TDSC'24
+####Sub-Reviewer
+Usenix Security'25, FSE'25, ISSTA'25, WWW'25, CCS'24, TDSC'24
 
-**[Teaching Assistant]** Decentralized Finance (DeFi) Course
+####Teaching Assistant
+Decentralized Finance (DeFi) Course
 
 # Experience
 * **[Intern]** Blocksec, Hangzhou, China, 2022.10-2023.08
 * **[Intern]** Institute of Information Engineering, Chinese Academy of Sciences, 2021.10-2022.05
 
 # Honors & Awards
-* China National Scholarship (Top 1\%), Ministry of Education of PRC
+* China National Scholarship, Ministry of Education of PRC
 * Outstanding Graduates of Beijing, Beijing Municipal Education Commission
-* First Prize of University Scholarship **×3** (Top 5\%)
+* First Prize of University Scholarship **×3**
 
 
