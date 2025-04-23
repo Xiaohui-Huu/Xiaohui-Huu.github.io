@@ -53,15 +53,61 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 
 # Publications
 
+<p>
+  <strong>[4]</strong> Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks.
+  <span style="white-space: nowrap;">
+    [<a href="https://www.eecs.qmul.ac.uk/~tysong/files/SIGMETRICS25.pdf" target="_blank">PDF</a>]
+    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite4')">Cite</a>]
+  </span>
+</p>
 
+<div id="cite4" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
+  <button class="copy-btn" onclick="copyCitation('cite4')">Copy</button>
+  <pre>
+  {% citations\sig25_cross-chain.bib %}
+  </pre>
+</div>
 
-**[2]** Txphishscope: Towards detecting and understanding transaction-based phishing on ethereum. [[PDF]]()
-**[1]** Make data reliable: An explanation-powered cleaning on malware dataset against backdoor poisoning attacks.  [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3564625.3564661) |
+<!-- ----------------------------- -->
+
+<p>
+  <strong>[3]</strong> Remeasuring the arbitrage and sandwich attacks of maximal extractable value in Ethereum.
+  <span style="white-space: nowrap;">
+    [<a href="https://arxiv.org/pdf/2405.17944" target="_blank">PDF</a>]
+    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite3')">Cite</a>]
+  </span>
+</p>
+
+<div id="cite3" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
+  <button class="copy-btn" onclick="copyCitation('cite3')">Copy</button>
+  <pre>
+  {% citations\mev.bib %}
+  </pre>
+</div>
+
+<!-- ----------------------------- -->
+
+<p>
+  <strong>[2]</strong> Txphishscope: Towards detecting and understanding transaction-based phishing on ethereum.
+  <span style="white-space: nowrap;">
+    [<a href="https://assets.blocksec.com/pdf/ccs23_phishing.pdf" target="_blank">PDF</a>]
+    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite2')">Cite</a>]
+  </span>
+</p>
+
+<div id="cite2" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
+  <button class="copy-btn" onclick="copyCitation('cite2')">Copy</button>
+  <pre>
+  {% citations\ccs23_phishing.bib %}
+  </pre>
+</div>
+
+<!-- ----------------------------- -->
 
 <p>
   <strong>[1]</strong> Make data reliable: An explanation-powered cleaning on malware dataset against backdoor poisoning attacks.
   <span style="white-space: nowrap;">
-    [<a href="https://dl.acm.org/doi/pdf/10.1145/3564625.3564661" target="_blank">PDF</a>] 
+    [<a href="https://dl.acm.org/doi/pdf/10.1145/3564625.3564661" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite1')">Cite</a>]
   </span>
 </p>
