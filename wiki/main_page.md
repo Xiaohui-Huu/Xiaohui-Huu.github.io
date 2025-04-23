@@ -62,6 +62,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
   <br>
   <span style="margin-left: 2em;">
   <span style="color: #494949;">Xiaohui Hu</span>, Ningyu He, Haoyu Wang
+  </span>
 </p>
 
 <div id="cite6" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
@@ -82,6 +83,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
   <br>
   <span style="margin-left: 2em;">
   Bosi Zhang, Ningyu He, <span style="color:rgb(7, 7, 7);">Xiaohui Hu</span>, Kai Ma, Haoyu Wang
+  </span>
 </p>
 
 <div id="cite5" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
@@ -102,6 +104,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
   <br>
   <span style="margin-left: 2em;">
   <span style="color: #494949;">Xiaohui Hu</span>, Hang Feng, Pengcheng Xia, Gareth Tyson, Lei Wu, Yajin Zhou, Haoyu Wang
+  </span>
 </p>
 
 <div id="cite4" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
@@ -122,6 +125,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
   <br>
   <span style="margin-left: 2em;">
   Tianyang Chi, Ningyu He, <span style="color: #494949;">Xiaohui Hu</span>, Haoyu Wang
+  </span>
 </p>
 
 <div id="cite3" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
@@ -142,6 +146,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
   <br>
   <span style="margin-left: 2em;">
   Bowen He, Yuan Chen, Zhuo Chen, <span style="color: #494949;">Xiaohui Hu</span>, Yufeng Hu, Lei Wu, Rui Chang, Haoyu Wang, Yajin Zhou
+  </span>
 </span>
   <!-- <br> -->
    <!-- &nbsp Bowen He, Yuan Chen, Zhuo Chen, <span style="color: #494949;">Xiaohui Hu</span>, Yufeng Hu, Lei Wu, Rui Chang, Haoyu Wang, Yajin Zhou -->
@@ -165,7 +170,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
   <br>
   <span style="margin-left: 2em;">
   Xutong Wang, Chaoge Liu, <span style="color: #494949;">Xiaohui Hu</span>, Zhi Wang, Jie Yin, Xiang Cui
-  
+  </span>  
 </p>
 
 <div id="cite1" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
