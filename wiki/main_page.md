@@ -64,7 +64,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <div id="cite5" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
   <button class="copy-btn" onclick="copyCitation('cite5')">Copy</button>
   <pre>
-  {% include_relative citations\sec25_price_manipulation.bib %}
+  {% include_relative citations\sec25_price_manipulation.txt %}
   </pre>
 </div>
 
@@ -81,7 +81,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <div id="cite4" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
   <button class="copy-btn" onclick="copyCitation('cite4')">Copy</button>
   <pre>
-  {% include_relative citations\sig25_cross-chain.bib %}
+  {% include_relative citations\sig25_cross-chain.txt %}
   </pre>
 </div>
 
@@ -98,7 +98,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <div id="cite3" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
   <button class="copy-btn" onclick="copyCitation('cite3')">Copy</button>
   <pre>
-  {% include_relative citations\mev.bib %}
+  {% include_relative citations\mev.txt %}
   </pre>
 </div>
 
@@ -115,7 +115,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <div id="cite2" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
   <button class="copy-btn" onclick="copyCitation('cite2')">Copy</button>
   <pre>
-  {% include_relative citations/ccs23_phishing.bib %}
+  {% include_relative citations/ccs23_phishing.txt %}
   </pre>
 </div>
 
@@ -132,7 +132,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <div id="cite1" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
   <button class="copy-btn" onclick="copyCitation('cite1')">Copy</button>
   <pre>
-  {% include_relative citations\make_data_reliable.bib %}
+  {% include_relative citations\make_data_reliable.txt %}
   </pre>
 </div>
 
