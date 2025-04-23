@@ -72,7 +72,10 @@ a:hover small {
 
 .wrapper {
   /*width:860px;*/
-  margin: 0 auto;
+  // margin: 0 auto;
+    max-width: 40%;
+    margin: 0 auto;
+  
 }
 
 blockquote {
@@ -160,7 +163,7 @@ screen and (max-width: 992px) {
   }
 
   .git-wiki-page {
-    margin-top: 60px;
+    margin-top: 20px;
   }
 }
 
