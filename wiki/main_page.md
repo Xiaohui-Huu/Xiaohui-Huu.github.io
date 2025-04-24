@@ -222,11 +222,8 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 * **[Phishing]** [Phishing Websites](https://github.com/blocksecteam/TxPhishScope/blob/main/TxPhishScope_CCS_2023_Phishing_URLs.txt)
 
 # Service
-## Sub-Reviewer
-Usenix Security'25, FSE'25, ISSTA'25, WWW'25, CCS'24, TDSC'24
-
-## Teaching Assistant
-Decentralized Finance (DeFi) Course
+* **[Sub-Reviewer]** Usenix Security'25, FSE'25, ISSTA'25, WWW'25, CCS'24, TDSC'24
+* **[Teaching Assistant]** Teaching Assistant, Decentralized Finance (DeFi) Course
 
 # Experience
 * **[Intern]** Blocksec, Hangzhou, China, 2022.10-2023.08
