@@ -105,8 +105,8 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
   Bosi Zhang, Ningyu He, <strong>Xiaohui Hu</strong>, Kai Ma, Haoyu Wang
   </span>
   <br>
-  *Proceedings of the 34th USENIX Security Symposium (USENIX Security 2025)*
-    <span style="white-space: nowrap;">
+  <span style="margin-left: 2em; white-space: nowrap;">
+  <i>Proceedings of the 34th USENIX Security Symposium (USENIX Security 2025)</i>
     [<a href="https://arxiv.org/pdf/2502.03718" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite5')">Cite</a>]
   </span>
