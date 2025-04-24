@@ -56,13 +56,15 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 
 <p class="view">
   <strong>[7] WalletProbe: A Testing Framework for Browser-based Cryptocurrency Wallet Extensions.</strong>
-  <span style="white-space: nowrap;">
-    [<a href="https://arxiv.org/pdf/2504.11735" target="_blank">PDF</a>]
-    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite7')">Cite</a>]
-  </span>
   <br>
   <span style="margin-left: 2em;">
   <strong>Xiaohui Hu</strong>, Ningyu He, Haoyu Wang
+  </span>
+  <br>
+  <span style="margin-left: 2em; white-space: nowrap;">
+  <i>arxiv</i>
+    [<a href="https://arxiv.org/pdf/2504.11735" target="_blank">PDF</a>]
+    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite7')">Cite</a>]
   </span>
 </p>
 
@@ -82,7 +84,8 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
   Bowen He, <strong>Xiaohui Hu</strong>, Yufeng Hu, Ting Yu, Rui Chang, Lei Wu, Yajin Zhou
   </span>
   <br>
-  *ACM SIGMETRICS / IFIP PERFORMANCE (SIGMETRICS 2025)*
+  <span style="margin-left: 2em; white-space: nowrap;">
+  <i>ACM SIGMETRICS / IFIP PERFORMANCE (SIGMETRICS 2025)</i>
   <span style="white-space: nowrap;">
     [<a href="" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite6')">Cite</a>]
@@ -128,8 +131,8 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
   <strong>Xiaohui Hu</strong>, Hang Feng, Pengcheng Xia, Gareth Tyson, Lei Wu, Yajin Zhou, Haoyu Wang
   </span>
   <br>
-  *ACM SIGMETRICS / IFIP PERFORMANCE (SIGMETRICS 2025)*
-  <span style="white-space: nowrap;">
+  <span style="margin-left: 2em; white-space: nowrap;">
+ <i>ACM SIGMETRICS / IFIP PERFORMANCE (SIGMETRICS 2025)</i>
     [<a href="https://www.eecs.qmul.ac.uk/~tysong/files/SIGMETRICS25.pdf" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite4')">Cite</a>]
   </span>
@@ -151,7 +154,8 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
   Tianyang Chi, Ningyu He, <strong>Xiaohui Hu</strong>, Haoyu Wang
   </span>
   <br>
-  <span style="white-space: nowrap;">
+  <span style="margin-left: 2em; white-space: nowrap;">
+  <i>arxiv</i>
     [<a href="https://arxiv.org/pdf/2405.17944" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite3')">Cite</a>]
   </span>
@@ -173,8 +177,8 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
   Bowen He, Yuan Chen, Zhuo Chen, <strong>Xiaohui Hu</strong>, Yufeng Hu, Lei Wu, Rui Chang, Haoyu Wang, Yajin Zhou
   </span>
   <br>
-  *ACM Conference on Computer and Communications Security (CCS 2023)*
-  <span style="white-space: nowrap;">
+  <span style="margin-left: 2em; white-space: nowrap;">
+    <i>ACM Conference on Computer and Communications Security (CCS 2023)</i>
     [<a href="https://assets.blocksec.com/pdf/ccs23_phishing.pdf" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite2')">Cite</a>]
   </span>
@@ -193,14 +197,16 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 
 <p class="view">
   <strong>[1] Make data reliable: An explanation-powered cleaning on malware dataset against backdoor poisoning attacks.</strong> [ACSAC'23] 
-  <span style="white-space: nowrap;">
-    [<a href="https://dl.acm.org/doi/pdf/10.1145/3564625.3564661" target="_blank">PDF</a>]
-    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite1')">Cite</a>]
-  </span>
   <br>
   <span style="margin-left: 2em;">
   Xutong Wang, Chaoge Liu, <strong>Xiaohui Hu</strong>, Zhi Wang, Jie Yin, Xiang Cui
-  </span>  
+  </span> 
+  <br>
+  <span style="margin-left: 2em; white-space: nowrap;">
+  <i>Annual Computer Security Applications Conference (ACSAC 2023)</i>
+    [<a href="https://dl.acm.org/doi/pdf/10.1145/3564625.3564661" target="_blank">PDF</a>]
+    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite1')">Cite</a>]
+  </span>
 </p>
 
 <div id="cite1" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
