@@ -86,7 +86,6 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
   <br>
   <span style="margin-left: 2em; white-space: nowrap;">
   <i>ACM SIGMETRICS / IFIP PERFORMANCE (SIGMETRICS 2025)</i>
-  <span style="white-space: nowrap;">
     [<a href="" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite6')">Cite</a>]
   </span>
@@ -125,7 +124,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <!-- ----------------------------- -->
 
 <p class="view">
-  <strong>[4] Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks.</strong> [ACM SIGMETRICS'25]
+  <strong>[4] Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks.</strong>
   <br>
   <span style="margin-left: 2em;">
   <strong>Xiaohui Hu</strong>, Hang Feng, Pengcheng Xia, Gareth Tyson, Lei Wu, Yajin Zhou, Haoyu Wang
@@ -171,7 +170,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <!-- ----------------------------- -->
 
 <p class="view">
-  <strong>[2] Txphishscope: Towards detecting and understanding transaction-based phishing on ethereum.</strong> [ACM CCS'23] 
+  <strong>[2] Txphishscope: Towards detecting and understanding transaction-based phishing on ethereum.</strong>
   <br>
   <span style="margin-left: 2em;">
   Bowen He, Yuan Chen, Zhuo Chen, <strong>Xiaohui Hu</strong>, Yufeng Hu, Lei Wu, Rui Chang, Haoyu Wang, Yajin Zhou
