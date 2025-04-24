@@ -194,7 +194,7 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <!-- ----------------------------- -->
 
 <p class="view">
-  <strong>[1] Make data reliable: An explanation-powered cleaning on malware dataset against backdoor poisoning attacks.</strong> [ACSAC'23] 
+  <strong>[1] Make data reliable: An explanation-powered cleaning on malware dataset against backdoor poisoning attacks.</strong>
   <br>
   <span style="margin-left: 2em;">
   Xutong Wang, Chaoge Liu, <strong>Xiaohui Hu</strong>, Zhi Wang, Jie Yin, Xiang Cui
