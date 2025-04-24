@@ -76,14 +76,16 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <!-- ----------------------------- -->
 
 <p class="view">
-  <strong>[6] Phishing Tactics Are Evolving: An Empirical Study of Phishing.</strong> [ACM SIGMETRICS'25]
-  <span style="white-space: nowrap;">
-    [<a href="" target="_blank">PDF</a>]
-    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite6')">Cite</a>]
-  </span>
+  <strong>[6] Phishing Tactics Are Evolving: An Empirical Study of Phishing.</strong>
   <br>
   <span style="margin-left: 2em;">
   Bowen He, <strong>Xiaohui Hu</strong>, Yufeng Hu, Ting Yu, Rui Chang, Lei Wu, Yajin Zhou
+  </span>
+  <br>
+  *ACM SIGMETRICS / IFIP PERFORMANCE (SIGMETRICS 2025)*
+  <span style="white-space: nowrap;">
+    [<a href="" target="_blank">PDF</a>]
+    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite6')">Cite</a>]
   </span>
 </p>
 
@@ -97,14 +99,16 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 <!-- ----------------------------- -->
 
 <p class="view">
-  <strong>[5] Following Devils' Footprint: Towards Real-time Detection of Price Manipulation Attacks.</strong> [USENIX Security'25]
-  <span style="white-space: nowrap;">
-    [<a href="https://arxiv.org/pdf/2502.03718" target="_blank">PDF</a>]
-    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite5')">Cite</a>]
-  </span>
+  <strong>[5] Following Devils' Footprint: Towards Real-time Detection of Price Manipulation Attacks.</strong>
   <br>
   <span style="margin-left: 2em;">
   Bosi Zhang, Ningyu He, <strong>Xiaohui Hu</strong>, Kai Ma, Haoyu Wang
+  </span>
+  <br>
+  *Proceedings of the 34th USENIX Security Symposium (USENIX Security 2025)*
+    <span style="white-space: nowrap;">
+    [<a href="https://arxiv.org/pdf/2502.03718" target="_blank">PDF</a>]
+    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite5')">Cite</a>]
   </span>
 </p>
 
@@ -119,13 +123,15 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 
 <p class="view">
   <strong>[4] Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks.</strong> [ACM SIGMETRICS'25]
-  <span style="white-space: nowrap;">
-    [<a href="https://www.eecs.qmul.ac.uk/~tysong/files/SIGMETRICS25.pdf" target="_blank">PDF</a>]
-    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite4')">Cite</a>]
-  </span>
   <br>
   <span style="margin-left: 2em;">
   <strong>Xiaohui Hu</strong>, Hang Feng, Pengcheng Xia, Gareth Tyson, Lei Wu, Yajin Zhou, Haoyu Wang
+  </span>
+  <br>
+  *ACM SIGMETRICS / IFIP PERFORMANCE (SIGMETRICS 2025)*
+  <span style="white-space: nowrap;">
+    [<a href="https://www.eecs.qmul.ac.uk/~tysong/files/SIGMETRICS25.pdf" target="_blank">PDF</a>]
+    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite4')">Cite</a>]
   </span>
 </p>
 
@@ -140,13 +146,14 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 
 <p class="view">
   <strong>[3] Remeasuring the arbitrage and sandwich attacks of maximal extractable value in Ethereum.</strong>
-  <span style="white-space: nowrap;">
-    [<a href="https://arxiv.org/pdf/2405.17944" target="_blank">PDF</a>]
-    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite3')">Cite</a>]
-  </span>
   <br>
   <span style="margin-left: 2em;">
   Tianyang Chi, Ningyu He, <strong>Xiaohui Hu</strong>, Haoyu Wang
+  </span>
+  <br>
+  <span style="white-space: nowrap;">
+    [<a href="https://arxiv.org/pdf/2405.17944" target="_blank">PDF</a>]
+    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite3')">Cite</a>]
   </span>
 </p>
 
@@ -161,13 +168,15 @@ My research interests center on *blockchain security* and *DeFi*. My broader int
 
 <p class="view">
   <strong>[2] Txphishscope: Towards detecting and understanding transaction-based phishing on ethereum.</strong> [ACM CCS'23] 
-  <span style="white-space: nowrap;">
-    [<a href="https://assets.blocksec.com/pdf/ccs23_phishing.pdf" target="_blank">PDF</a>]
-    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite2')">Cite</a>]
-  </span>
   <br>
   <span style="margin-left: 2em;">
   Bowen He, Yuan Chen, Zhuo Chen, <strong>Xiaohui Hu</strong>, Yufeng Hu, Lei Wu, Rui Chang, Haoyu Wang, Yajin Zhou
+  </span>
+  <br>
+  *ACM Conference on Computer and Communications Security (CCS 2023)*
+  <span style="white-space: nowrap;">
+    [<a href="https://assets.blocksec.com/pdf/ccs23_phishing.pdf" target="_blank">PDF</a>]
+    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite2')">Cite</a>]
   </span>
   <!-- <br> -->
    <!-- &nbsp Bowen He, Yuan Chen, Zhuo Chen, <strong>Xiaohui Hu</strong>, Yufeng Hu, Lei Wu, Rui Chang, Haoyu Wang, Yajin Zhou -->
