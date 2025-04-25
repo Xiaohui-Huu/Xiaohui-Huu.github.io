@@ -45,10 +45,11 @@ My research interests center on *blockchain security* and *program analysis*. My
 **I am actively exploring a PhD opportunity to contribute to impactful research.**
 
 # News
+* **[2025-06]** I will attend the SIGMETRICS conference in New York!
 * **[2025-04]** Our paper about analyzing blockchain phishing tactics is accepted by SIGMETRICS'25!
 * **[2025-01]** Our work about real-time detection of price manipulation attack contract in Ethereum is accepted by Sec’25!
 * **[2024-09]** Our work about analyzing cross-chain ecosystem and detecting anomalies is accepted by SIGMETRICS'25!
-* **[2023-07]** Our work about real-time detection of phishing transactions in Ethereum is accepted by CCS'23!
+
 
 
 # Publications
