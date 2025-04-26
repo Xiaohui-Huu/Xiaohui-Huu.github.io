@@ -46,10 +46,11 @@ My research interests center on  *DeFi* and *blockchain security*, with a strong
 **I am actively exploring a PhD opportunity to contribute to impactful research.**
 
 # News
+* **[2025-06]** I will attend the SIGMETRICS conference in New York!
 * **[2025-04]** Our paper about analyzing blockchain phishing tactics is accepted by SIGMETRICS'25!
 * **[2025-01]** Our work about real-time detection of price manipulation attack contract in Ethereum is accepted by Sec’25!
 * **[2024-09]** Our work about analyzing cross-chain ecosystem and detecting anomalies is accepted by SIGMETRICS'25!
-* **[2023-07]** Our work about real-time detection of phishing transactions in Ethereum is accepted by CCS'23!
+
 
 
 # Publications
@@ -57,13 +58,15 @@ My research interests center on  *DeFi* and *blockchain security*, with a strong
 
 <p class="view">
   <strong>[7] WalletProbe: A Testing Framework for Browser-based Cryptocurrency Wallet Extensions.</strong>
-  <span style="white-space: nowrap;">
-    [<a href="https://arxiv.org/pdf/2504.11735" target="_blank">PDF</a>]
-    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite7')">Cite</a>]
-  </span>
   <br>
   <span style="margin-left: 2em;">
   <strong>Xiaohui Hu</strong>, Ningyu He, Haoyu Wang
+  </span>
+  <br>
+  <span style="margin-left: 2em; white-space: nowrap;">
+  <i>arxiv</i>
+    [<a href="https://arxiv.org/pdf/2504.11735" target="_blank">PDF</a>]
+    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite7')">Cite</a>]
   </span>
 </p>
 
@@ -83,8 +86,8 @@ My research interests center on  *DeFi* and *blockchain security*, with a strong
   Bowen He, <strong>Xiaohui Hu</strong>, Yufeng Hu, Ting Yu, Rui Chang, Lei Wu, Yajin Zhou
   </span>
   <br>
-  *ACM SIGMETRICS / IFIP PERFORMANCE (SIGMETRICS 2025)*
-  <span style="white-space: nowrap;">
+  <span style="margin-left: 2em; white-space: nowrap;">
+  <i>ACM SIGMETRICS / IFIP PERFORMANCE (SIGMETRICS 2025)</i>
     [<a href="" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite6')">Cite</a>]
   </span>
@@ -106,8 +109,8 @@ My research interests center on  *DeFi* and *blockchain security*, with a strong
   Bosi Zhang, Ningyu He, <strong>Xiaohui Hu</strong>, Kai Ma, Haoyu Wang
   </span>
   <br>
-  *Proceedings of the 34th USENIX Security Symposium (USENIX Security 2025)*
-    <span style="white-space: nowrap;">
+  <span style="margin-left: 2em; white-space: nowrap;">
+  <i>Proceedings of the 34th USENIX Security Symposium (USENIX Security 2025)</i>
     [<a href="https://arxiv.org/pdf/2502.03718" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite5')">Cite</a>]
   </span>
@@ -123,14 +126,14 @@ My research interests center on  *DeFi* and *blockchain security*, with a strong
 <!-- ----------------------------- -->
 
 <p class="view">
-  <strong>[4] Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks.</strong> [ACM SIGMETRICS'25]
+  <strong>[4] Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks.</strong>
   <br>
   <span style="margin-left: 2em;">
   <strong>Xiaohui Hu</strong>, Hang Feng, Pengcheng Xia, Gareth Tyson, Lei Wu, Yajin Zhou, Haoyu Wang
   </span>
   <br>
-  *ACM SIGMETRICS / IFIP PERFORMANCE (SIGMETRICS 2025)*
-  <span style="white-space: nowrap;">
+  <span style="margin-left: 2em; white-space: nowrap;">
+ <i>ACM SIGMETRICS / IFIP PERFORMANCE (SIGMETRICS 2025)</i>
     [<a href="https://www.eecs.qmul.ac.uk/~tysong/files/SIGMETRICS25.pdf" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite4')">Cite</a>]
   </span>
@@ -152,7 +155,8 @@ My research interests center on  *DeFi* and *blockchain security*, with a strong
   Tianyang Chi, Ningyu He, <strong>Xiaohui Hu</strong>, Haoyu Wang
   </span>
   <br>
-  <span style="white-space: nowrap;">
+  <span style="margin-left: 2em; white-space: nowrap;">
+  <i>arxiv</i>
     [<a href="https://arxiv.org/pdf/2405.17944" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite3')">Cite</a>]
   </span>
@@ -168,19 +172,17 @@ My research interests center on  *DeFi* and *blockchain security*, with a strong
 <!-- ----------------------------- -->
 
 <p class="view">
-  <strong>[2] Txphishscope: Towards detecting and understanding transaction-based phishing on ethereum.</strong> [ACM CCS'23] 
+  <strong>[2] Txphishscope: Towards detecting and understanding transaction-based phishing on ethereum.</strong>
   <br>
   <span style="margin-left: 2em;">
   Bowen He, Yuan Chen, Zhuo Chen, <strong>Xiaohui Hu</strong>, Yufeng Hu, Lei Wu, Rui Chang, Haoyu Wang, Yajin Zhou
   </span>
   <br>
-  *ACM Conference on Computer and Communications Security (CCS 2023)*
-  <span style="white-space: nowrap;">
+  <span style="margin-left: 2em; white-space: nowrap;">
+    <i>ACM Conference on Computer and Communications Security (CCS 2023)</i>
     [<a href="https://assets.blocksec.com/pdf/ccs23_phishing.pdf" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite2')">Cite</a>]
   </span>
-  <!-- <br> -->
-   <!-- &nbsp Bowen He, Yuan Chen, Zhuo Chen, <strong>Xiaohui Hu</strong>, Yufeng Hu, Lei Wu, Rui Chang, Haoyu Wang, Yajin Zhou -->
 </p>
 
 <div id="cite2" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
@@ -193,15 +195,17 @@ My research interests center on  *DeFi* and *blockchain security*, with a strong
 <!-- ----------------------------- -->
 
 <p class="view">
-  <strong>[1] Make data reliable: An explanation-powered cleaning on malware dataset against backdoor poisoning attacks.</strong> [ACSAC'23] 
-  <span style="white-space: nowrap;">
-    [<a href="https://dl.acm.org/doi/pdf/10.1145/3564625.3564661" target="_blank">PDF</a>]
-    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite1')">Cite</a>]
-  </span>
+  <strong>[1] Make data reliable: An explanation-powered cleaning on malware dataset against backdoor poisoning attacks.</strong>
   <br>
   <span style="margin-left: 2em;">
   Xutong Wang, Chaoge Liu, <strong>Xiaohui Hu</strong>, Zhi Wang, Jie Yin, Xiang Cui
-  </span>  
+  </span> 
+  <br>
+  <span style="margin-left: 2em; white-space: nowrap;">
+  <i>Annual Computer Security Applications Conference (ACSAC 2023)</i>
+    [<a href="https://dl.acm.org/doi/pdf/10.1145/3564625.3564661" target="_blank">PDF</a>]
+    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite1')">Cite</a>]
+  </span>
 </p>
 
 <div id="cite1" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
@@ -217,11 +221,8 @@ My research interests center on  *DeFi* and *blockchain security*, with a strong
 * **[Phishing]** [Phishing Websites](https://github.com/blocksecteam/TxPhishScope/blob/main/TxPhishScope_CCS_2023_Phishing_URLs.txt)
 
 # Service
-## Sub-Reviewer
-Usenix Security'25, FSE'25, ISSTA'25, WWW'25, CCS'24, TDSC'24
-
-## Teaching Assistant
-Decentralized Finance (DeFi) Course
+* **[Sub-Reviewer]** Usenix Security'25, FSE'25, ISSTA'25, WWW'25, CCS'24, TDSC'24
+* **[Teaching Assistant]** Teaching Assistant, Decentralized Finance (DeFi) Course
 
 # Experience
 * **[Intern]** Blocksec, Hangzhou, China, 2022.10-2023.08

@@ -37,7 +37,7 @@ h3 {
 }
 
 h1 {
-  font-size: 28px;
+  font-size: 24px;
   font-weight: bold;
 }
 
@@ -84,7 +84,7 @@ a:hover small {
 .wrapper {
   /*width:860px;*/
   // margin: 0 auto;
-    max-width: 50%;
+    max-width: 1100px;
     margin: 0 auto;
   
 }
@@ -394,9 +394,9 @@ screen and (max-width: 480px) {
 .external-link {
   background-position: center right;
   background-repeat: no-repeat;
-  background-image: url("../images/external-link-ltr-icon.png");
-  background-image: linear-gradient(transparent, transparent), url("../images/external.svg");
-  padding-right: 13px;
+  // background-image: url("../images/external-link-ltr-icon.png");
+  // background-image: linear-gradient(transparent, transparent), url("../images/external.svg");
+  // padding-right: 13px;
 }
 
 
