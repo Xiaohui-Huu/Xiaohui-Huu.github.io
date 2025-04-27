@@ -42,7 +42,7 @@ redirect_from: "/"
 I am a master student in Security PRIDE Research Group at Huazhong University of Science and Technology (HUST), advised by [Prof. Haoyu Wang](https://howiepku.github.io/index.html) and co-supervised by [Dr. Ningyu He](https://ningyu-he.notion.site/Ningyu-s-Homepage-74990eabecda4c5b9cd0e90762ebc7a9). I received my B.E. degree in Computer Science at Beijing University of Posts and Telecommunications in 2023. 
 My research interests center on *blockchain security* and *program analysis*. My broader interests include uncovering software bugs to assess exploitability and analyzing DeFi activities to pretend misbehaviors (e.g., exploits, scams, and MEV).
 
-**I am a motivated Master's student seeking a PhD opportunity to contribute to impactful research.**
+**I am a motivated student seeking a PhD opportunity to contribute to impactful research.**
 
 # News
 * **[2025-06]** I will attend the SIGMETRICS conference in New York!
