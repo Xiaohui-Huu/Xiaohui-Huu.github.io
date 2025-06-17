@@ -39,7 +39,7 @@ redirect_from: "/"
 
 
 # About me
-I am a Master's student in Security PRIDE Research Group at Huazhong University of Science and Technology (HUST), advised by [Prof. Haoyu Wang](https://howiepku.github.io/index.html) and co-supervised by [Dr. Ningyu He](https://ningyu-he.notion.site/Ningyu-s-Homepage-74990eabecda4c5b9cd0e90762ebc7a9). I received my B.E. degree in Computer Science at Beijing University of Posts and Telecommunications in 2023. 
+I am a Master's student in Security PRIDE Research Group at Huazhong University of Science and Technology (HUST), advised by [Prof. Haoyu Wang](https://howiepku.github.io/index.html). I received my B.E. degree in Computer Science at Beijing University of Posts and Telecommunications in 2023. 
 My research interests center on  *DeFi* and *blockchain security*, with a broader intersts include uncovering software bugs to assess exploitability and analyzing DeFi activities. I also have strong passion for exploring finance and combining AI to build digitaltrust.
 <!-- My broader interests include uncovering software bugs to assess exploitability and analyzing DeFi activities to pretend misbehaviors (e.g., exploits, scams, and MEV). -->
 
@@ -227,6 +227,7 @@ My research interests center on  *DeFi* and *blockchain security*, with a broade
 * **[Teaching Assistant]** Teaching Assistant, Decentralized Finance (DeFi) Course
 
 # Experience
+* **[Intern]** Amber, Hong Kong, China, 2025.06-
 * **[Intern]** Blocksec, Hangzhou, China, 2022.10-2023.08
 * **[Intern]** Institute of Information Engineering, Chinese Academy of Sciences, 2021.10-2022.05
 
