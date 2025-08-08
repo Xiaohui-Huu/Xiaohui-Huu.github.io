@@ -227,7 +227,7 @@ My research interests center on  *DeFi* and *blockchain security*, with a broade
 * **[Teaching Assistant]** Teaching Assistant, Decentralized Finance (DeFi) Course
 
 # Experience
-* **[Intern]** AmberGroup, Hong Kong, China, 2025.06-
+<!-- * **[Intern]** AmberGroup, Hong Kong, China, 2025.06- -->
 * **[Intern]** Blocksec, Hangzhou, China, 2022.10-2023.08
 * **[Intern]** Institute of Information Engineering, Chinese Academy of Sciences, 2021.10-2022.05
 
