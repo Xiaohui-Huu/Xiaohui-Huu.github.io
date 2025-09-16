@@ -39,8 +39,8 @@ redirect_from: "/"
 
 
 # About me
-I am a Master's student in Security PRIDE Research Group at Huazhong University of Science and Technology (HUST), advised by [Prof. Haoyu Wang](https://howiepku.github.io/index.html). I received my B.E. degree in Computer Science at Beijing University of Posts and Telecommunications in 2023. 
-My research interests center on  *DeFi* and *blockchain security*, with a broader intersts include uncovering software bugs to assess exploitability and analyzing DeFi activities. I also have strong passion for exploring finance and combining AI to build digitaltrust.
+I am a Master's student in Security PRIDE Research Group at Huazhong University of Science and Technology (HUST), advised by [Prof. Haoyu Wang](https://howiepku.github.io/index.html). I received my B.E. degree in Computer Science at Beijing University of Posts and Telecommunications (BUPT) in 2023. 
+My research interests center on  *DeFi* and *blockchain security*, with a broader intersts include uncovering software bugs to assess exploitability and analyzing DeFi activities.
 <!-- My broader interests include uncovering software bugs to assess exploitability and analyzing DeFi activities to pretend misbehaviors (e.g., exploits, scams, and MEV). -->
 
 <!-- **I am a motivated student seeking a PhD opportunity to contribute to impactful research.** -->
@@ -48,6 +48,7 @@ My research interests center on  *DeFi* and *blockchain security*, with a broade
 
 
 # News
+* **[2025-09]** Our paper about measureing MEV activities is accepted by ASE'25!
 * **[2025-06]** I will attend the SIGMETRICS conference in New York!
 * **[2025-04]** Our paper about analyzing blockchain phishing tactics is accepted by SIGMETRICS'25!
 * **[2025-01]** Our work about real-time detection of price manipulation attack contract in Ethereum is accepted by Sec’25!
