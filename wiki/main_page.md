@@ -159,7 +159,7 @@ My research interests center on  *DeFi* and *blockchain security*, with a broade
   </span>
   <br>
   <span style="margin-left: 2em; white-space: nowrap;">
-  <i>arxiv</i>
+    <i>IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)</i>
     [<a href="https://arxiv.org/pdf/2405.17944" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite3')">Cite</a>]
   </span>
