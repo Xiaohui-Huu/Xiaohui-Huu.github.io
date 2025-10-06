@@ -48,6 +48,7 @@ My research interests center on  *DeFi* and *blockchain security*, with a broade
 
 
 # News
+* **[2025-10]** I will attend the [ETHShanghai](https://ethshanghai.org) in Shanghai, China!
 * **[2025-09]** Our paper about measureing MEV activities is accepted by ASE'25!
 * **[2025-06]** I will attend the SIGMETRICS conference in New York!
 * **[2025-04]** Our paper about analyzing blockchain phishing tactics is accepted by SIGMETRICS'25!
