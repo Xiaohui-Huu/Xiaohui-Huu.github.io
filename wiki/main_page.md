@@ -236,6 +236,6 @@ My research interests center on  *DeFi* and *blockchain security*, with a broade
 # Honors & Awards
 * China National Scholarship, Ministry of Education of PRC
 * Outstanding Graduates of Beijing, Beijing Municipal Education Commission
-* First Prize of University Scholarship **×3**
+* First Prize of University Scholarship **×4**
 
 
