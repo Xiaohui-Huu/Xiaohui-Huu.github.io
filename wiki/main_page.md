@@ -39,7 +39,7 @@ redirect_from: "/"
 
 
 # About me
-I am a Master's student in Security PRIDE Research Group at Huazhong University of Science and Technology (HUST), advised by [Prof. Haoyu Wang](https://howiepku.github.io/index.html). I received my B.E. degree in Computer Science at Beijing University of Posts and Telecommunications (BUPT) in 2023. 
+I am pursuing my master degree in Security PRIDE Research Group at Huazhong University of Science and Technology (HUST), advised by [Prof. Haoyu Wang](https://howiepku.github.io/index.html). I received my B.E. degree in Computer Science at Beijing University of Posts and Telecommunications (BUPT) in 2023. 
 My research interests center on  *DeFi* and *blockchain security*, with a broader intersts include uncovering software bugs to assess exploitability and analyzing DeFi activities.
 <!-- My broader interests include uncovering software bugs to assess exploitability and analyzing DeFi activities to pretend misbehaviors (e.g., exploits, scams, and MEV). -->
 
