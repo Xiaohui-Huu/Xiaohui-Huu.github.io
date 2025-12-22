@@ -48,11 +48,12 @@ My research interests center on  *DeFi* and *blockchain security*, with a broade
 
 
 # News
+* **[2025-12]** Our paper about identifying attack vectors in cryptocurrency wallets is accepted by FSE'26!
 * **[2025-10]** I will volunteer at [ETHShanghai](https://ethshanghai.org) in Shanghai, China!
 * **[2025-09]** Our paper about measureing MEV activities is accepted by ASE'25!
 * **[2025-06]** I will attend the SIGMETRICS conference in New York!
 * **[2025-04]** Our paper about analyzing blockchain phishing tactics is accepted by SIGMETRICS'25!
-* **[2025-01]** Our work about real-time detection of price manipulation attack contract in Ethereum is accepted by Sec’25!
+* **[2025-01]** Our work about real-time detection of price manipulation attack contract in Ethereum is accepted by Usenix Security’25!
 * **[2024-09]** Our work about analyzing cross-chain ecosystem and detecting anomalies is accepted by SIGMETRICS'25!
 
 
