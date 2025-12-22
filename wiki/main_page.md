@@ -157,7 +157,7 @@ My research interests center on  *DeFi* and *blockchain security*, with a broade
   <strong>[3] Remeasuring the arbitrage and sandwich attacks of maximal extractable value in Ethereum.</strong>
   <br>
   <span style="margin-left: 2em;">
-  Tianyang Chi, Ningyu He, <strong>Xiaohui Hu</strong>, Haoyu Wang
+  Ningyu He, Tianyang Chi, <strong>Xiaohui Hu</strong>, Haoyu Wang
   </span>
   <br>
   <span style="margin-left: 2em; white-space: nowrap;">
