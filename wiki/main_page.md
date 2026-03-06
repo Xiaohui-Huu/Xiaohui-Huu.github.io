@@ -247,9 +247,9 @@ My research interests center on  *DeFi* and *blockchain security*, with a broade
 * **[Phishing]** [Phishing Websites](https://github.com/blocksecteam/TxPhishScope/blob/main/TxPhishScope_CCS_2023_Phishing_URLs.txt)
 
 # Service
-* **[Sub-Reviewer]** NDSS'26, IMC'25, S&P'25, Usenix Security'25, FSE'25, ISSTA'25, WWW'25, CCS'24, TDSC'24
+* **[Sub-Reviewer]** CCS'26, NDSS'26, ICSE'26, IMC'25, S&P'25, Usenix Security'25, FSE'25, ISSTA'25, WWW'25
 * **[Teaching Assistant]** Teaching Assistant, Decentralized Finance (DeFi) Course
-* **[Volunteer]** Volunteer of ETHShanghai
+* **[Volunteer]** Volunteer at ETHShanghai
 
 # Experience
 <!-- * **[Intern]** AmberGroup, Hong Kong, China, 2025.06- -->
@@ -259,7 +259,6 @@ My research interests center on  *DeFi* and *blockchain security*, with a broade
 # Honors & Awards
 * China National Scholarship, Ministry of Education of PRC
 * Outstanding Graduates of Beijing, Beijing Municipal Education Commission
-* First Prize of University Scholarship **×4**
-* First Prize of University Scholarship **×4**
+* First Prize of University Scholarship **×5**
 
 
