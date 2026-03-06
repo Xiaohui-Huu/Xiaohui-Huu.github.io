@@ -39,7 +39,7 @@ redirect_from: "/"
 
 
 # About me
-I am a Master's student in Security PRIDE Research Group at Huazhong University of Science and Technology (HUST), advised by [Prof. Haoyu Wang](https://howiepku.github.io/index.html) and [Prof. Ningyu He](https://ningyu-he.notion.site/Ningyu-s-Homepage-74990eabecda4c5b9cd0e90762ebc7a9). I received my B.E. degree in Computer Science at Beijing University of Posts and Telecommunications (BUPT) in 2023. 
+I am pursuing my master degree in Security PRIDE Research Group at Huazhong University of Science and Technology (HUST), advised by [Prof. Haoyu Wang](https://howiepku.github.io/index.html) and [Prof. Ningyu He](https://ningyu-he.notion.site/Ningyu-s-Homepage-74990eabecda4c5b9cd0e90762ebc7a9). I received my B.E. degree in Computer Science at Beijing University of Posts and Telecommunications (BUPT) in 2023. 
 My research interests center on  *DeFi* and *blockchain security*, with a broader intersts include uncovering software bugs to assess exploitability and analyzing DeFi activities.
 <!-- My broader interests include uncovering software bugs to assess exploitability and analyzing DeFi activities to pretend misbehaviors (e.g., exploits, scams, and MEV). -->
 
@@ -49,7 +49,7 @@ My research interests center on  *DeFi* and *blockchain security*, with a broade
 
 # News
 * **[2025-12]** Our work about detecting attack vectors in cryptocurrency wallets is accepted by FSE'26!
-* **[2025-10]** I will serve as a volunteer at ETH Shanghai!
+* **[2025-10]** I will volunteer at ETH Shanghai!
 * **[2025-09]** Our paper about measureing MEV activities is accepted by ASE'25!
 * **[2025-06]** I will attend the SIGMETRICS conference in New York!
 * **[2025-04]** Our paper about analyzing blockchain phishing tactics is accepted by SIGMETRICS'25!
@@ -178,7 +178,7 @@ My research interests center on  *DeFi* and *blockchain security*, with a broade
   <strong>[3] Remeasuring the arbitrage and sandwich attacks of maximal extractable value in Ethereum.</strong>
   <br>
   <span style="margin-left: 2em;">
-  Tianyang Chi, Ningyu He, <strong>Xiaohui Hu</strong>, Haoyu Wang
+  Ningyu He, Tianyang Chi, <strong>Xiaohui Hu</strong>, Haoyu Wang
   </span>
   <br>
   <span style="margin-left: 2em; white-space: nowrap;">
@@ -249,6 +249,7 @@ My research interests center on  *DeFi* and *blockchain security*, with a broade
 # Service
 * **[Sub-Reviewer]** NDSS'26, IMC'25, S&P'25, Usenix Security'25, FSE'25, ISSTA'25, WWW'25, CCS'24, TDSC'24
 * **[Teaching Assistant]** Teaching Assistant, Decentralized Finance (DeFi) Course
+* **[Volunteer]** Volunteer of ETHShanghai
 
 # Experience
 <!-- * **[Intern]** AmberGroup, Hong Kong, China, 2025.06- -->
@@ -258,6 +259,7 @@ My research interests center on  *DeFi* and *blockchain security*, with a broade
 # Honors & Awards
 * China National Scholarship, Ministry of Education of PRC
 * Outstanding Graduates of Beijing, Beijing Municipal Education Commission
+* First Prize of University Scholarship **×4**
 * First Prize of University Scholarship **×4**
 
 
