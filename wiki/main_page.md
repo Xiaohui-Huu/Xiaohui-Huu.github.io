@@ -39,7 +39,7 @@ redirect_from: "/"
 
 
 # About me
-I am a Master's student in Security PRIDE Research Group at Huazhong University of Science and Technology (HUST), advised by [Prof. Haoyu Wang](https://howiepku.github.io/index.html). I received my B.E. degree in Computer Science at Beijing University of Posts and Telecommunications (BUPT) in 2023. 
+I am a Master's student in Security PRIDE Research Group at Huazhong University of Science and Technology (HUST), advised by [Prof. Haoyu Wang](https://howiepku.github.io/index.html) and [Prof. Ningyu He](https://ningyu-he.notion.site/Ningyu-s-Homepage-74990eabecda4c5b9cd0e90762ebc7a9). I received my B.E. degree in Computer Science at Beijing University of Posts and Telecommunications (BUPT) in 2023. 
 My research interests center on  *DeFi* and *blockchain security*, with a broader intersts include uncovering software bugs to assess exploitability and analyzing DeFi activities.
 <!-- My broader interests include uncovering software bugs to assess exploitability and analyzing DeFi activities to pretend misbehaviors (e.g., exploits, scams, and MEV). -->
 
@@ -48,15 +48,38 @@ My research interests center on  *DeFi* and *blockchain security*, with a broade
 
 
 # News
+* **[2025-12]** Our work about detecting attack vectors in cryptocurrency wallets is accepted by FSE'26!
+* **[2025-10]** I will serve as a volunteer at ETH Shanghai!
 * **[2025-09]** Our paper about measureing MEV activities is accepted by ASE'25!
 * **[2025-06]** I will attend the SIGMETRICS conference in New York!
 * **[2025-04]** Our paper about analyzing blockchain phishing tactics is accepted by SIGMETRICS'25!
-* **[2025-01]** Our work about real-time detection of price manipulation attack contract in Ethereum is accepted by Sec’25!
+* **[2025-01]** Our work about real-time detection of price manipulation attack contract in Ethereum is accepted by Usenix Security'25!
 * **[2024-09]** Our work about analyzing cross-chain ecosystem and detecting anomalies is accepted by SIGMETRICS'25!
 
 
 
 # Publications
+
+<p class="view">
+  <strong>[8] An Effective and Cost-Efficient Agentic Framework for Ethereum Smart Contract Auditing.</strong>
+  <br>
+  <span style="margin-left: 2em;">
+  <strong>Xiaohui Hu</strong>*, Wun Yu Chan*, Yuejie Shi, Qumeng Sun, Wei-Cheng Wang, Chiachih Wu, Haoyu Wang, Ningyu He
+  </span>
+  <br>
+  <span style="margin-left: 2em; white-space: nowrap;">
+  <i>arxiv</i>
+    [<a href="https://arxiv.org/pdf/2601.17833" target="_blank">PDF</a>]
+    [<a href="javascript:void(0);" onclick="toggleCitationBox('cite7')">Cite</a>]
+  </span>
+</p>
+
+<div id="cite7" class="citation-box" style="display:none; border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; max-width: 700px; margin-top: 10px; font-family: monospace;">
+  <button class="copy-btn" onclick="copyCitation('cite7')">Copy</button>
+  <!-- <pre> -->
+  {% include citations/wallet.txt %}
+  <!-- </pre> -->
+</div>
 
 
 <p class="view">
@@ -67,8 +90,8 @@ My research interests center on  *DeFi* and *blockchain security*, with a broade
   </span>
   <br>
   <span style="margin-left: 2em; white-space: nowrap;">
-  <i>arxiv</i>
-    [<a href="https://arxiv.org/pdf/2504.11735" target="_blank">PDF</a>]
+  <i>The ACM International Conference on the Foundations of Software Engineering (FSE 2026, Acceptance rate = 87/920)</i>
+    [<a href="" target="_blank">PDF</a>]
     [<a href="javascript:void(0);" onclick="toggleCitationBox('cite7')">Cite</a>]
   </span>
 </p>
@@ -235,6 +258,6 @@ My research interests center on  *DeFi* and *blockchain security*, with a broade
 # Honors & Awards
 * China National Scholarship, Ministry of Education of PRC
 * Outstanding Graduates of Beijing, Beijing Municipal Education Commission
-* First Prize of University Scholarship **×3**
+* First Prize of University Scholarship **×4**
 
 
